@@ -1,0 +1,14 @@
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\bin\Debug\net6.0\WordAnalyzerThreaded.exe
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\bin\Debug\net6.0\WordAnalyzerThreaded.deps.json
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\bin\Debug\net6.0\WordAnalyzerThreaded.runtimeconfig.json
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\bin\Debug\net6.0\WordAnalyzerThreaded.dll
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\bin\Debug\net6.0\WordAnalyzerThreaded.pdb
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.dll
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\refint\WordAnalyzerThreaded.dll
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.pdb
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\WordAnalyzerThreaded.genruntimeconfig.cache
+C:\Users\EliteBook\source\repos\WordAnalyzerThreaded\WordAnalyzerThreaded\obj\Debug\net6.0\ref\WordAnalyzerThreaded.dll

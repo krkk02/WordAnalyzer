@@ -1,0 +1,14 @@
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\bin\Debug\net6.0\WordAnalyzerNonThreaded.exe
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\bin\Debug\net6.0\WordAnalyzerNonThreaded.deps.json
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\bin\Debug\net6.0\WordAnalyzerNonThreaded.runtimeconfig.json
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\bin\Debug\net6.0\WordAnalyzerNonThreaded.dll
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\bin\Debug\net6.0\WordAnalyzerNonThreaded.pdb
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.AssemblyInfoInputs.cache
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.AssemblyInfo.cs
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.dll
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\refint\WordAnalyzerNonThreaded.dll
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.pdb
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\WordAnalyzerNonThreaded.genruntimeconfig.cache
+C:\Users\EliteBook\source\repos\WordAnalyzerNonThreaded\WordAnalyzerNonThreaded\obj\Debug\net6.0\ref\WordAnalyzerNonThreaded.dll
